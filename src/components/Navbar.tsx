@@ -10,9 +10,6 @@ const Navbar = () => {
         <li>
           <Link to="/history">History page</Link>
         </li>
-        <li>
-          <Link to="/contact">Contact page</Link>
-        </li>
       </ul>
     </nav>
   );
